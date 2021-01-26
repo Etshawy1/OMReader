@@ -1,6 +1,5 @@
 # OMReader
-<img src="screenshots/logo.png" width="250" height="200"></img>
-
+![logo](screenshots/logo.png)
 
 [![GitHub contributors](https://img.shields.io/github/contributors/MuhammeedAlaa/OMReader)](https://github.com/MuhammeedAlaa/OMReader/graphs/contributors)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MuhammeedAlaa/OMReader)
